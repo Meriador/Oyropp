@@ -1,0 +1,12 @@
+﻿{
+  "name" : "Oyropp: Legacy of Kolom",
+  "id" : "",
+  "version" : "0.0.0",
+  "supported_game_version" : "",
+  "short_description" : "",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : true
+  }
+}

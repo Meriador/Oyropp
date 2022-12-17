@@ -1,0 +1,18 @@
+﻿STATE_HAWAIIAN_ISLANDS = {
+    id = 309
+    subsistence_building = "building_subsistence_farms"
+    provinces = { "x492B26" "x6090C0" "xB5403E" }
+    traits = { "state_trait_hawaii_sandalwood_forests" "state_trait_volcanic_soil" }
+    city = "xB5403E"
+    port = "x492B26"
+    farm = "x6090C0"
+    arable_land = 48
+    arable_resources = { "bg_rice_farms" "bg_livestock_ranches" "bg_coffee_plantations" "bg_cotton_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_sugar_plantations" "bg_banana_plantations" }
+    capped_resources = {
+        bg_iron_mining = 12
+        bg_logging = 14
+        bg_whaling = 10
+        bg_fishing = 8
+    }
+    naval_exit_id = 3001
+}
