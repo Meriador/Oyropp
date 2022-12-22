@@ -1,0 +1,99 @@
+﻿MaterialSetter={
+	Samples={
+		Sample={
+			Name="Sample from 1251, 2759"
+			Materials={
+				Material={
+					MaterialId="cliff_limestone_02"
+					Value=160
+				}
+
+				Material={
+					MaterialId="cliff_limestone_03"
+					Value=55
+				}
+
+				Material={
+					MaterialId="beach_03"
+					Value=40
+				}
+
+				Material={
+					MaterialId="beach_03"
+					Value=40
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 1258, 2751"
+			Materials={
+				Material={
+					MaterialId="cliff_limestone_02"
+					Value=161
+				}
+
+				Material={
+					MaterialId="cliff_limestone_03"
+					Value=54
+				}
+
+				Material={
+					MaterialId="beach_03"
+					Value=40
+				}
+
+				Material={
+					MaterialId="beach_03"
+					Value=40
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 2118, 1798"
+			Materials={
+				Material={
+					MaterialId="grasslands_07"
+					Value=100
+				}
+
+				Material={
+					MaterialId="cliff_limestone_03"
+					Value=91
+				}
+
+				Material={
+					MaterialId="grasslands_06"
+					Value=64
+				}
+
+			}
+		}
+
+		Sample={
+			Name="Sample from 5652, 2221"
+			Materials={
+				Material={
+					MaterialId="cliff_sandstone_04"
+					Value=159
+				}
+
+				Material={
+					MaterialId="desert_06"
+					Value=75
+				}
+
+				Material={
+					MaterialId="cliff_limestone_03"
+					Value=21
+				}
+
+			}
+		}
+
+	}
+}
+
